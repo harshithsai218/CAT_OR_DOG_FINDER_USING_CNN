@@ -108,7 +108,7 @@ pip install -r requirements.txt
 ```
 3. Run the Python Script
 ```
-python cat_dog_finder.py
+python app.py
 ```
 📁 Project Structure
 ```
